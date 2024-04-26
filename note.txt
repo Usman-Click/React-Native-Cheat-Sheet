@@ -1,0 +1,15 @@
+00
+- install CLI globally :
+    expo global cli
+- init pack.json (sometimes)
+- then manual installation.
+- if it shows error relating to expo is not found just run:
+         npm install
+
+
+
+
+01
+- file base routing capablities
+- deep linking (scheme)
+- metro bundler
