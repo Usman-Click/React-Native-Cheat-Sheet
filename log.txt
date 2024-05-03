@@ -1,3 +1,0 @@
-expo global cli
-init pack.json (sometimes)
-then manual insal.

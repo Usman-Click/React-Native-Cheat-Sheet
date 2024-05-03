@@ -2,7 +2,11 @@
   "name": "react-native-cheat-sheet",
   "version": "1.0.0",
   "main": "expo-router/entry",
+<<<<<<< HEAD
   "scripts": {
+=======
+    "scripts": {
+>>>>>>> 641e8606b04a6ec58b6bdb6d196f0dffe54dfae7
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
